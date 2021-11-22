@@ -1,6 +1,10 @@
 /**
  * Site Header
  */
+
+ body{
+     background-color: red($color: #000000);;
+ }
 .site-header {
   border-bottom: 1px solid $color-border;
   padding-bottom: 1.125rem;
